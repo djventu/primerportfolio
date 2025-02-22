@@ -14,7 +14,10 @@ body{
 img{
     width: 400px;
     border: 2px solid;
-    margin: 20px 0;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    
     
     
 }
